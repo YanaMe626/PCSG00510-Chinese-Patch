@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ghidra",
+    "repository": "https://github.com/NationalSecurityAgency/ghidra",
+    "release": "https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_12.1.3_build",
+    "download": "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.1.3_build/ghidra_12.1.3_PUBLIC_20260817.zip",
+    "archive": "D:\\StarrySky_Chinese\\tools\\downloads\\ghidra_12.1.3_PUBLIC_20260817.zip",
+    "sha256": "93a5d11a9ad510622acaaf908c556a7b9b764d338e78a7567f3689bf5081fd54",
+    "github_digest_verified": true
+  },
+  {
+    "name": "jdk",
+    "repository": "https://github.com/adoptium/temurin21-binaries",
+    "release": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.13%2B9",
+    "download": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B9/OpenJDK21U-jdk_x64_windows_hotspot_21.0.13_9.zip",
+    "archive": "D:\\StarrySky_Chinese\\tools\\downloads\\OpenJDK21U-jdk_x64_windows_hotspot_21.0.13_9.zip",
+    "sha256": "a4dbaa05fca4bd89d84584e58c459bd732efebb1722af80ab13c6516832004f9",
+    "github_digest_verified": true
+  },
+  {
+    "name": "vita_loader",
+    "repository": "https://github.com/CreepNT/VitaLoaderRedux",
+    "release": "https://github.com/CreepNT/VitaLoaderRedux/releases/tag/1.09",
+    "download": "https://github.com/CreepNT/VitaLoaderRedux/releases/download/1.09/ghidra_12.1.3_PUBLIC_20260903_VitaLoaderRedux.zip",
+    "archive": "D:\\StarrySky_Chinese\\tools\\downloads\\ghidra_12.1.3_PUBLIC_20260903_VitaLoaderRedux.zip",
+    "sha256": "7176339843b3597f15441a780bd9d893b8ebef7af00913007111847b9232e199",
+    "github_digest_verified": true
+  }
+]

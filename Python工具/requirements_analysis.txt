@@ -1,0 +1,8 @@
+pycryptodome
+six
+Pillow
+fonttools
+numpy
+pyelftools
+capstone
+unicorn
